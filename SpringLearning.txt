@@ -1,0 +1,5 @@
+###Spring Learning Repository 
+It consist of Three Projects 
+UCL1-basic hello app using IntelliJ or STS
+UCL2-MVC Controller with view html page
+UCL3-Rest Controller usage
